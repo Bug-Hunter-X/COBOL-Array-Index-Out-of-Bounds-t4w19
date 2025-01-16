@@ -1,0 +1,1 @@
+This repository contains a simple COBOL program demonstrating an array index out-of-bounds error and its solution. The program uses a PERFORM loop to populate an array, but the loop's termination condition is incorrect, leading to an attempt to access an element beyond the array's bounds.  The solution corrects the loop's condition to prevent this error. 
